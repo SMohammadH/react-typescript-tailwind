@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-typescript-tailwind/static/css/main.ad375c8a.chunk.css",
+    "main.js": "/react-typescript-tailwind/static/js/main.38e6611e.chunk.js",
+    "main.js.map": "/react-typescript-tailwind/static/js/main.38e6611e.chunk.js.map",
+    "runtime-main.js": "/react-typescript-tailwind/static/js/runtime-main.e20a6673.js",
+    "runtime-main.js.map": "/react-typescript-tailwind/static/js/runtime-main.e20a6673.js.map",
+    "static/css/2.0dee620a.chunk.css": "/react-typescript-tailwind/static/css/2.0dee620a.chunk.css",
+    "static/js/2.1f6e0f37.chunk.js": "/react-typescript-tailwind/static/js/2.1f6e0f37.chunk.js",
+    "static/js/2.1f6e0f37.chunk.js.map": "/react-typescript-tailwind/static/js/2.1f6e0f37.chunk.js.map",
+    "index.html": "/react-typescript-tailwind/index.html",
+    "static/css/2.0dee620a.chunk.css.map": "/react-typescript-tailwind/static/css/2.0dee620a.chunk.css.map",
+    "static/css/main.ad375c8a.chunk.css.map": "/react-typescript-tailwind/static/css/main.ad375c8a.chunk.css.map",
+    "static/js/2.1f6e0f37.chunk.js.LICENSE.txt": "/react-typescript-tailwind/static/js/2.1f6e0f37.chunk.js.LICENSE.txt",
+    "static/media/dark.9cf9badf.svg": "/react-typescript-tailwind/static/media/dark.9cf9badf.svg",
+    "static/media/proud.93881364.svg": "/react-typescript-tailwind/static/media/proud.93881364.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e20a6673.js",
+    "static/css/2.0dee620a.chunk.css",
+    "static/js/2.1f6e0f37.chunk.js",
+    "static/css/main.ad375c8a.chunk.css",
+    "static/js/main.38e6611e.chunk.js"
+  ]
+}
