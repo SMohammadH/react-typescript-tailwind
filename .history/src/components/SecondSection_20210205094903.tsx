@@ -45,7 +45,7 @@ export const SecondSection = () => {
             <div className="w-16 h-1 rounded-full bg-indigo-500 inline-flex"></div>
           </div>
         </div>
-        <div className="flex flex-wrap mr-5">
+        <div className="flex flex-wrap  -mx-4 -mb-10 -mt-4">
           <Card
             Img={SiReact}
             imgSize={10}

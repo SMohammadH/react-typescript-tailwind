@@ -12,7 +12,7 @@ export const Navbar = () => {
       <div className="max-w-screen-xl mx-auto px-2 sm:px-6 lg:px-8">
         <div className="relative flex items-center justify-between h-16">
           <div>
-            <h1 className="ml-4 text-3xl font-gold">
+            <h1 className="ml-3 text-3xl font-gold">
               <button className="focus:outline-none">MH</button>
             </h1>
           </div>
