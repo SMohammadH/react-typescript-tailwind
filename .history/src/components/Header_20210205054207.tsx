@@ -1,0 +1,26 @@
+import Img from '../img/main.jpg';
+
+export const Header = () => {
+  return (
+    <div
+      className="text-center w-full h-5/6 bg-cover bg-fixed relative overflow-hidden"
+      style={{
+        backgroundImage: `url(${Img})`,
+        borderRadius: '0 0 85% 85% / 30%',
+      }}
+    >
+      <div className="w-full h-4/5 p-10 text-secondary shadow-md bg-gradient-to-b  to-gray-600 from-transparent">
+        <h1>Simply The Best</h1>
+        <h3>Reasons for Choosing US</h3>
+        <p>
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vero nostrum
+          quis, odio veniam itaque ullam debitis qui magnam consequatur ab. Vero
+          nostrum quis, odio veniam itaque ullam debitis qui magnam consequatur
+          ab.
+        </p>
+        <br />
+        <button>READ MORE</button>
+      </div>
+    </div>
+  );
+};
